@@ -1,0 +1,5 @@
+com\citi\cms_model\App.class
+com\citi\cms_model\entity\CaProfile.class
+com\citi\cms_model\entity\Person$PersonBuilder.class
+com\citi\cms_model\entity\Person.class
+com\citi\cms_model\entity\PersonAddressInfo.class
