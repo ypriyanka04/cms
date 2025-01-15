@@ -1,0 +1,6 @@
+com\citi\pki_service\model\CaProfileModel.class
+com\citi\pki_service\caprofile\CaProfileRepository.class
+com\citi\pki_service\PkiServiceApplication.class
+com\citi\pki_service\caprofile\CaProfileController.class
+com\citi\pki_service\caprofile\CaProfileService.class
+com\citi\pki_service\config\ServiceConfig.class
